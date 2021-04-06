@@ -1,4 +1,4 @@
 # workflow-parallel-join-example
 
 
-test
+test 2
